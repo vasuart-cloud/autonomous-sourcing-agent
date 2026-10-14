@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Sourcing Agent",
+  "description": "AI-powered tail spend autonomous sourcing platform with governed multi-agent execution, human approval gates, and verifiable evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
